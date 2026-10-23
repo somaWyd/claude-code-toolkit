@@ -1,0 +1,10 @@
+{
+  "name": "dev-toolkit",
+  "version": "0.1.0",
+  "description": "検証・レビュー・調査・大規模リファクタのエージェントと、相談・設計・要約・HTML・SwiftUI のスキル",
+  "author": {
+    "name": "somaWyd"
+  },
+  "license": "MIT",
+  "keywords": ["verification", "code-review", "research", "planning", "swiftui", "japanese"]
+}
